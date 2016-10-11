@@ -12,8 +12,6 @@ https:\/\/www.lesstif.com\/pages\/viewpage.action?pageId=24445742
 
 장단점을 분석하여 프레임워크를 제작해보자.
 
-
-
 1. 장단점 분석
 
 2. 개발문서 자동제작 기능
@@ -23,15 +21,17 @@ https:\/\/www.lesstif.com\/pages\/viewpage.action?pageId=24445742
   3. 서비스 명 
     1. 서비스 및 페이지개발시 필요한 목록을 조사해서 정리해보자. 
     2. page, api, service, 등등 여러가지 웹서비스 수행기록들이 있을것이고, 
-    3. 각 카테고리별로 url규칙,  보낼 내용, 받을 내용, method규칙등 여러가지가 있을것이다. 
+    3. 각 카테고리별로 url규칙,  보낼 내용, 받을 내용, method규칙등 여러가지가 있을것이다.
 
-    http:\/\/www.bye-car.com\/apis\/byecar
+
     https:\/\/www.lesstif.com\/pages\/viewpage.action?pageId=24445742
 
-  4. 문서로 출력 
+  4. 문서로 출력
+
   5. 기간산정기능?
 
 3. 회원관리
+
 4. 게시판
 5. 세션관리
 6. 관리자페이지 
